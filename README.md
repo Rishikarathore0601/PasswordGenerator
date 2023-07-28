@@ -1,4 +1,5 @@
 Password Generator Web App
+
 This is a simple password generator web application built using HTML, CSS, and JavaScript. It allows users to generate strong and secure passwords based on their preferred criteria.
 
 Getting Started
